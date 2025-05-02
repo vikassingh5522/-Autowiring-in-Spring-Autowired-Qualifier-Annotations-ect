@@ -1,7 +1,4 @@
  BY DI
-
-![Screenshot 2025-05-02 140241](https://github.com/user-attachments/assets/cd307354-f557-4514-b064-fe0746e52d0a)
-
 ![Screenshot 2025-05-02 140241](https://github.com/user-attachments/assets/bd3a2a7b-1b49-4358-8538-c0d1a96c3564)
 
 ![Screenshot 2025-05-02 141054](https://github.com/user-attachments/assets/05ef2e83-1381-4628-8d94-de952718bc71)
@@ -13,9 +10,15 @@
 
 ![Screenshot 2025-05-02 152427](https://github.com/user-attachments/assets/ed794c96-4769-4f2a-adea-c527786881dc)
 
+
 WAHT IS  @Autowired & @Qualifier Annotations 
 
 ![Screenshot 2025-05-02 140335](https://github.com/user-attachments/assets/b37ef241-66e4-48ce-bb82-51dd193f8eda)
 
 ![Screenshot 2025-05-02 153319](https://github.com/user-attachments/assets/6671aaa6-48af-4f49-bbc0-29498418c917)
+![Screenshot 2025-05-02 161454](https://github.com/user-attachments/assets/27731af8-db77-4187-bb00-eb33b91a624d)
 
+
+![Screenshot (4)](https://github.com/user-attachments/assets/1f6be44c-1652-4d5d-95cd-7b93436f68f6)
+
+![Screenshot (4)](https://github.com/user-attachments/assets/3b25dede-2d8d-4d48-a710-c8ba3283e612)
