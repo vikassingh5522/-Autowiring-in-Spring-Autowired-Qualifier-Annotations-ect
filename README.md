@@ -18,7 +18,6 @@ WAHT IS  @Autowired & @Qualifier Annotations
 ![Screenshot 2025-05-02 153319](https://github.com/user-attachments/assets/6671aaa6-48af-4f49-bbc0-29498418c917)
 ![Screenshot 2025-05-02 161454](https://github.com/user-attachments/assets/27731af8-db77-4187-bb00-eb33b91a624d)
 
-
-![Screenshot (4)](https://github.com/user-attachments/assets/1f6be44c-1652-4d5d-95cd-7b93436f68f6)
-
 ![Screenshot (4)](https://github.com/user-attachments/assets/3b25dede-2d8d-4d48-a710-c8ba3283e612)
+
+![Screenshot 2025-05-02 160634](https://github.com/user-attachments/assets/f878f234-162b-42f6-8e05-2168258ed63f)
